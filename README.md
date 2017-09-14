@@ -6,4 +6,4 @@ This was completed for this [Odin Project Lesson](https://www.theodinproject.com
 
 ## Learned
 
-This project is currently incomplete.
+Syntax of Rest Client and real life practice of making an HTTP request.
